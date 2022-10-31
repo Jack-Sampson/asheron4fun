@@ -1,0 +1,6 @@
+Server Folder Structure I used:
+
+C:\ACE\Automation Scripts
+C:\ACE\Server
+C:\ACE\Source Code
+C:\ACE\MySQL Backups
